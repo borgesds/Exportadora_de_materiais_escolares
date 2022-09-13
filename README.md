@@ -19,3 +19,9 @@
 - Simulação de Cenários
 
 - Clusterização
+
+## PBI
+
+
+![Capturar 01](https://user-images.githubusercontent.com/82332461/189780820-76e7b775-1bb8-4d7d-9ba2-27920cfdfa05.PNG)
+![Capturar 02](https://user-images.githubusercontent.com/82332461/189780839-b56af902-e215-4183-8c3e-a82d3765874d.PNG)
